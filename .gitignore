@@ -1,0 +1,27 @@
+# CakePHP 3
+
+/source-code/vendor/*
+/source-code/config/app.php
+
+/source-code/tmp/cache/models/*
+!/source-code/tmp/cache/models/empty
+/source-code/tmp/cache/persistent/*
+!/source-code/tmp/cache/persistent/empty
+/source-code/tmp/cache/views/*
+!/source-code/tmp/cache/views/empty
+/source-code/tmp/sessions/*
+!/source-code/tmp/sessions/empty
+/source-code/tmp/tests/*
+!/source-code/tmp/tests/empty
+
+/source-code/logs/*
+!/source-code/logs/empty
+
+# CakePHP 2
+
+/source-code/app/tmp/*
+/source-code/app/Config/core.php
+/source-code/app/Config/database.php
+/source-code/vendors/*
+
+/source-code/screens
